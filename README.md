@@ -39,8 +39,8 @@ I also teach algorithms, programming, and UI/UX with my own methods.
 ## GitHub статистика
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=islamcib&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=islamcib&layout=compact&hide_border=true&theme=github_dark&langs_count=6" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=islamcib&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=islamcib&layout=compact&hide_border=true&theme=github_dark&langs_count=6" alt="Top languages" />
 </div>
 
 ## Избранные проекты
