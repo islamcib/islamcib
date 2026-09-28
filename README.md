@@ -63,9 +63,9 @@ Stepik и другие платформы — ссылки и названия: 
 
 ## Контакты
 
-- **LinkedIn:** [ВСТАВИТЬ]
-- **Telegram:** [ВСТАВИТЬ]
-- **Email:** [ВСТАВИТЬ]
+- **LinkedIn:** [www.linkedin.com/in/ислам-кулназаров-9031252aa]
+- **Telegram:** [@airik612]
+- **Email:** [izikivi2006@gmail.com]
 
 <div align="center">
 
